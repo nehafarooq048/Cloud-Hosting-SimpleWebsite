@@ -37,11 +37,9 @@
 
 -This project is for learning and demonstration purposes only.
 -It is a frontend-only UI built with HTML and CSS
--No backend functionality is implemented.
+-No backend functionality is implemented.Forms, buttons, CLI commands, and deployment steps shown in the Docs page are mock content/UI only and do not perform any real operations.
 
 -**Live At:**
 **-GitHub:**  https://nehafarooq048.github.io/Cloud-Hosting-SimpleWebsite/
 
 **-Netlify:**  https://cloudhostingsimplewebsite.netlify.app/
-Forms, buttons, CLI commands, and deployment steps shown in the Docs page are mock content/UI only and do not perform any real operations.
-Live at:
